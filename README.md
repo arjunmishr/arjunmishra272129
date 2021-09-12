@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @arjunmishra272129
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arjun Mishra  
+- 👀 I’m interested in new technologies and new paradigam of software industries. 
+- 🌱 I’m currently learning Software development and Machine Learning and NLP.
+- 💞️ I’m looking to collaborate on open source project.
+- 📫 How to reach me, Just send me an email on arjunmishra272129@gmail.com.
 
 <!---
 arjunmishra272129/arjunmishra272129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
